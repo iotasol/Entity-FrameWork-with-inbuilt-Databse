@@ -1,0 +1,5 @@
+C:\Users\Iotasol Android\Documents\Visual Studio 2013\Projects\EntityFramworkDbDemo\EntityFramworkDbDemo.Database\bin\Debug\EntityFramworkDbDemo.Database.dacpac
+C:\Users\Iotasol Android\Documents\Visual Studio 2013\Projects\EntityFramworkDbDemo\EntityFramworkDbDemo.Database\bin\Debug\EntityFramworkDbDemo.Database.dll
+C:\Users\Iotasol Android\Documents\Visual Studio 2013\Projects\EntityFramworkDbDemo\EntityFramworkDbDemo.Database\bin\Debug\EntityFramworkDbDemo.Database.pdb
+C:\Users\Iotasol Android\Documents\Visual Studio 2013\Projects\EntityFramworkDbDemo\EntityFramworkDbDemo.Database\obj\Debug\EntityFramworkDbDemo.Database.dll
+C:\Users\Iotasol Android\Documents\Visual Studio 2013\Projects\EntityFramworkDbDemo\EntityFramworkDbDemo.Database\obj\Debug\EntityFramworkDbDemo.Database.pdb
